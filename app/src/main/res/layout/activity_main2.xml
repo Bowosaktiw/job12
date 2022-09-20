@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PROFILE BOWO SAKTI W."
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="25dp"
+        android:layout_marginBottom="10sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama: BOWO SAKTI W."
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="22dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Umur: 17 Tahun"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="22dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hobi: futsal "
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="22dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sekolah: SMKN 1 SAYUNG"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="22dp" />
+
+</LinearLayout>
